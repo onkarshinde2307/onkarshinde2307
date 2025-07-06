@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onkarshinde2307/onkarshinde/main/OnkarShindeBanner.jpg" alt="Onkar Shinde Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/onkarshinde2307/onkarshinde2307/main/OnkarShindeBanner.jpg" alt="Onkar Shinde Banner" width="100%" />
 </p>
+
 
 
 <h2 align="center">🌿 Onkar Babasaheb Shinde</h2>

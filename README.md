@@ -80,14 +80,14 @@
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Fiddler-2C7A7B?style=for-the-badge&logo=data:image/png;base64,PUT_BASE64_IMAGE_HERE&logoColor=white"/>
 </p>
 
 ### ⚡ Version Control
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fiddler-2C7A7B?style=for-the-badge&logo=data:image/png;base64,PUT_BASE64_IMAGE_HERE&logoColor=white"/>
-</p>
+  </p>
 
 ### 🏛️ Principles & Architecture
 <p>

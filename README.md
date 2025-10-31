@@ -8,7 +8,7 @@
 <h3 align="center">Full Stack .NET Developer | Clean Code Enthusiast</h3>
 
 <p align="center">
-  📧 shindeonkar7408@gmail.com • 🌐 <a href="https://onkarshinde2307.github.io/Onkar-Shinde-Developer-Portfolio/">Portfolio</a> • 💼 <a href="https://www.linkedin.com/in/onkar-shinde-9771ab215/">LinkedIn</a>
+  📧 shindeonkar7408@gmail.com • 🌐 <a href="https://onkarshinde2307.github.io/Onkar-Shinde-Developer-Portfolio-/">Portfolio</a> • 💼 <a href="https://www.linkedin.com/in/onkar-shinde-9771ab215/">LinkedIn</a>
 </p>
 
 <p align="center">

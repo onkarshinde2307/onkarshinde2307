@@ -8,7 +8,7 @@
 <h3 align="center">Full Stack .NET Developer | Clean Code Enthusiast</h3>
 
 <p align="center">
-  📧 shindeonkar7408@gmail.com • 🌐 <a href="https://onkarshinde2307.github.io/Onkar-Shinde-Developer-Portfolio-/">Portfolio</a> • 💼 <a href="https://www.linkedin.com/in/onkar-shinde-9771ab215/">LinkedIn</a>
+  📧 shindeonkar7408@gmail.com • 🌐 <a href="https://onkarshinde-developer-portfolio.vercel.app/">Portfolio</a> • 💼 <a href="https://www.linkedin.com/in/onkar-shinde-9771ab215/">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@
 
 ## 🌟 My Portfolio
 <p align="center">
-  <a href="https://onkarshinde2307.github.io/Onkar-Shinde-Developer-Portfolio-/" target="_blank">
+  <a href="https://onkarshinde-developer-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-0e76a8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
